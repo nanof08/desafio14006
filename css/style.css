@@ -19,6 +19,16 @@
     color: rgb(221, 221, 211);
 }
 
+.padreGrid1{
+    display: inline-flex;
+    text-align: center;
+
+}
+
+.container{
+    display:inline-block
+}
+
 /*Nav*/
 .nav {
     grid-area: nav;
@@ -121,7 +131,8 @@
 }
 
 .video{
-    align-content: ;
+    width: ;
+    align-content: center ;
 }
 /*Segunda sección*/
 
@@ -214,7 +225,7 @@
 }
 
 .footer i:hover{
-    color: white;
+    color: rgb(192, 71, 71);
 }
 
 /*ANIMACIONES*/
